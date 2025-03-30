@@ -1,2 +1,4 @@
 # Demo
-This is my Git Rpository
+This is my first Git Repository.
+Author - Amol Saurav
+
